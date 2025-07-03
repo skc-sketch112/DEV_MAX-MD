@@ -42,7 +42,7 @@ src="https://files.catbox.moe/tx03aw.png">
     <strong>TUTORIALS & DEPLOYMENTS</strong>
     <br>
     <a href="https://www.jeliostarrdev.space/" target="_blank">
-        <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
+        <img alt="GET STARTED" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
     </a>
 </p>
 
@@ -62,7 +62,5 @@ src="https://files.catbox.moe/tx03aw.png">
 
 **© 𝘿𝙀𝙑 𝙎𝙋𝘼𝘾𝙀**
 ##
-![MIT License](https://img.shields.io/badge/License-green.svg)
-
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
