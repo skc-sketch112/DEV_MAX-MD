@@ -42,7 +42,7 @@ src="https://files.catbox.moe/tx03aw.png">
     <strong>TUTORIALS & DEPLOYMENTS</strong>
     <br>
     <a href="https://www.jeliostarrdev.space/" target="_blank">
-        <img alt="GET STARTED" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
+        <img alt="WEBSITE" src="https://img.shields.io/badge/Get%20Started-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
     </a>
 </p>
 
@@ -54,7 +54,6 @@ src="https://files.catbox.moe/tx03aw.png">
 - [Hector](https://github.com/OfficialKango)
 - [Baileys](https://github.com/WhiskeySockets)
 
-##
 <h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
 </h2>
 
