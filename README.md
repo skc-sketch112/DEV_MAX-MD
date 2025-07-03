@@ -1,3 +1,4 @@
+<h1 align="center"> 𝐃𝐄𝐕_𝐌𝐀𝐗-𝐌𝐃 </h1>
 
 <img align="center" height="auto"
 src="https://files.catbox.moe/tx03aw.png">
@@ -28,3 +29,40 @@ src="https://files.catbox.moe/tx03aw.png">
 <p align='center'>
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<p align="center">
+    <strong>FORK REPOSITORY</strong>
+  <br>
+    <a href="https://github.com/Jeliostarr/DEV_MAX-MD/fork" target="_blank">
+        <img alt="Fork Repo" src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue"/>
+    </a>
+</p>
+
+<p align="center">
+    <strong>TUTORIALS & DEPLOYMENTS</strong>
+    <br>
+    <a href="https://www.jeliostarrdev.space/" target="_blank">
+        <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
+    </a>
+</p>
+
+</details>
+
+## Credits
+
+- [Dev](https://github.com/Jeliostarr)
+- [Hector](https://github.com/OfficialKango)
+- [Baileys](https://github.com/WhiskeySockets)
+
+##
+<h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
+</h2>
+
+- This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
+
+**© 𝘿𝙀𝙑 𝙎𝙋𝘼𝘾𝙀**
+##
+![MIT License](https://img.shields.io/badge/License-green.svg)
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
