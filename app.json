@@ -1,8 +1,8 @@
 {
   "name": "DEV_MAX-MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Matri199/Matrixmddata",
-  "logo": "https://graph.org/file/3e81c19e2e4424a41eca2.jpg",
+  "repository": "https://github.com/Jeliostarr/DEV_MAX-MD",
+  "logo": "https://i.ibb.co/n8jhgqwz/devmax.png",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
