@@ -18,8 +18,6 @@ src="https://files.catbox.moe/tx03aw.png">
 <a href="https://github.com/Jeliostarr/DEV_MAX-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Jeliostarr/DEV_MAX-MD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Jeliostarr/DEV_MAX-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Jeliostarr/DEV_MAX-MD?style=flat-square&color=green"></a>
 <a href="https://github.com/Jeliostarr/DEV_MAX-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
-<p align="center"><img src="https://profile-counter.glitch.me/{DEV_MAX-MD}/count.svg" alt="Jeliostarr :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Jeliostarr}/count.svg" /></p>
-<p align="center">
 <a href="https://github.com/Jeliostarr/DEV_MAX-MD"Dev"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Jeliostarr&label=VIEWS&style=flat-square&color=blue" />
 </a>
