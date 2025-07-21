@@ -22,7 +22,7 @@ src="https://files.catbox.moe/tx03aw.png">
   <img src="https://komarev.com/ghpvc/?username=Jeliostarr&label=VIEWS&style=flat-square&color=blue" />
 </a>
 <p align="center">
-  <a href="https://github.com/Jeliostarr/DEV_MAX-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/Jeliostarr/DEV_MAX-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0.4-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 
 <p align='center'>
     </p>
