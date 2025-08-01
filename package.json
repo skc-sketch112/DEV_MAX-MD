@@ -1,6 +1,6 @@
 {
     "name": "DEV_MAX-MD",
-    "version": "1.2.0",
+    "version": "1.0.5",
     "description": "A whatsapp bot with rich and multiple features",
     "main": "index.js",
     "type": "commonjs",
