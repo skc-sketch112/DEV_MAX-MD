@@ -6,7 +6,7 @@
   "stack": "container",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "scripts": {
-    "start": "node main.js"
+    "start": "node index.js"
   },
   "env": {
     "SESSION_ID": {
