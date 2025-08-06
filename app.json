@@ -1,12 +1,25 @@
 {
   "name": "DEV_MAX-MD",
-  "description": "whatsapp md bot build with nodejs",
+  "description": "WhatsApp MD bot built with Node.js",
   "repository": "https://github.com/Jeliostarr/DEV_MAX-MD",
-  "logo": "https://i.ibb.co/n8jhgqwz/devmax.png",
+  "logo": "https://files.catbox.moe/45k0i2.jpg",
+  "stack": "container",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "scripts": {
+    "start": "node main.js"
+  },
+  "env": {
+    "SESSION_ID": {
+      "description": "Your WhatsApp Session ID (Must start with DEVSPACE~)",
+      "value": ""
+    }
+  },
   "buildpacks": [
     {
       "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
     },
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
