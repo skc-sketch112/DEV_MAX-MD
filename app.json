@@ -5,27 +5,10 @@
   "logo": "https://files.catbox.moe/45k0i2.jpg",
   "stack": "container",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
-  "scripts": {
-    "start": "node index.js"
-  },
   "env": {
     "SESSION_ID": {
       "description": "Your WhatsApp Session ID (Must start with DEVSPACE~)",
       "value": ""
     }
-  },
-  "buildpacks": [
-    {
-      "url": "heroku/nodejs"
-    },
-    {
-      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
-    },
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    },
-    {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-    }
-  ]
+  }
 }
